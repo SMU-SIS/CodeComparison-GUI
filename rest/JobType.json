@@ -1,0 +1,1 @@
+[{"command": "python master/code-worker/tasks/pep8/pep8.py -h", "name": "TEST", "key": "ahFzfmNvZGUtY29tcGFyaXNvbnIPCxIHSm9iVHlwZRjViQIM"}, {"command": "python master/code-worker/tasks/pep8/pep8.py -h", "name": "PEP8", "key": "ahFzfmNvZGUtY29tcGFyaXNvbnIPCxIHSm9iVHlwZRiRoQIM"}]

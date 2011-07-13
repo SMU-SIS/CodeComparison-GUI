@@ -1,0 +1,1 @@
+{"status": "PROCESSED", "jsonResult": "Invalid JSON", "target": "git@github.com:SMU-SIS/code-worker.git", "created": "2011-07-01T00:44:59.149943", "master": "git@github.com:SMU-SIS/code-worker.git", "processed": "false", "key": "ahFzfmNvZGUtY29tcGFyaXNvbnIKCxIDSm9iGOkHDA", "command": "analysis.py", "jobType": "PEP8", "log": "/bin/sh: analysis.py: not found\n"}
